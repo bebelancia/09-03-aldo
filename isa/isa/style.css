@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;       
+    background-image:url('../../bb.png');
+    margin: 30px;
+}
+
+h1 {
+    color: rgb(16, 71, 48);
+    border-bottom: 2px solid rgb(31, 75, 30);
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-size: 25px;
+    color:rgb(0, 0, 0)
+}
+
+h3 {
+    color: rgba(163, 71, 143, 0.4);
+    margin-left: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: #1376d3;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+a {
+    color: rgb(29, 90, 53);
+    font-size: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:#828
+}
+
+
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  border: 2px solid #000000;
+  padding: 8px;
+  text-align: center;
+  color: rgb(234, 0, 255);
+}
+
+th {
+  background-color: #e100ff;
+}
+
